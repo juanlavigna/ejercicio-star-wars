@@ -1,3 +1,6 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+}
 .los-malos{
     background-color: red;
 }
@@ -12,4 +15,22 @@
 
 #luke{
     font-style: italic;
+}
+
+.borde-soldados{
+    letter-spacing: 4px;
+    border: 3px dashed black;
+}
+
+.apoyo{
+    text-align: center;
+}
+
+.nave{
+    text-transform: uppercase;
+}
+
+.img-center{
+    display: block;
+    margin: 0 auto;
 }
